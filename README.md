@@ -1,1 +1,2 @@
 # 56OBSClone
+COVID 19 shifted our schools online, this was also accompanied by a need for a screen recorder. I am a huge fan of the OBS Studio, though it has a steep learning curve, the amount of flexibility it provides in recording the video, audio and our computer screen. So I made an elementary  application which can record your screen, audio and webcam. For doing this I had to learn many new modules like cv2, sound device, soundfile, scipy and got to know how numpy can be used to make an array of photos, which when stitched together forms a video. 
